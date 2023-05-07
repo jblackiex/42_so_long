@@ -13,7 +13,7 @@
 ### 📜 Index
 * [How to play](#How-to-play)
 * [Tile map](#Tile-map)
-* [Player and Input](#Testing)
+* [What's the wrong input?](#❌-Testing)
 * [Enemies](#Enemy-Behaviour)
 * [Animation](#Render,-Animation-and-VFX)
 * [Structs and Data](#Structs-and-Data)
@@ -35,7 +35,7 @@ Execute with:
 ```shell
 ./so_long_bonus maps/name_of_a_map.ber
 ```
-### Testing
+### ❌ Testing
 
 Try a wrong map in the directory map/ inside the 42_so_long dir. For Example:
 ```shell
