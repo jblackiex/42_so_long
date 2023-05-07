@@ -7,10 +7,10 @@
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jblackiex/42_so_long?color=green" />
 </p>
 
-# 🧙 42_so_long
+# 42_so_long 🧙 
 * The aim of this project is to create a small 2D game where players have to pick up all collectables and go to the exit; then you WIN!
 
-![gif1.gif](https://drive.google.com/file/d/1y8DQA48qQZwwJsFFF6G2oWR3vney_w3v/view?usp=sharing)
+## ![gif1.gif](https://drive.google.com/file/d/1y8DQA48qQZwwJsFFF6G2oWR3vney_w3v/view?usp=sharing)
 
 ### 📜 Index
 * [How to play](#How-to-play)
