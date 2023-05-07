@@ -15,7 +15,7 @@
 ## 📜 Index
 * [How to play 🕹️](#How-to-play)
 * [What's the wrong input? ❌](#Testing)
-* [map_enemy3.ber 🗝](#map_enemy3.ber)
+* [map_enemy3.ber 🗝](#map_enemy3)
 * [Maps 🗺](#Maps)
 
 <hr>
@@ -53,7 +53,7 @@ Execute with:
 * The map must be a rectangle surrounded by walls ‘1’.
 * It must have at least one exit ‘E’ and one collectable ‘C’. And only one player ‘P’.
 
----> see some examples in the ``maps/`` folder of this project. TRY ---> [Puzzle-map 🗝](#Puzzle-game)
+---> see some examples in the ``maps/`` folder of this project. TRY ---> [Puzzle-map 🗝](#map_enemy3)
 
 ### Testing
 
@@ -83,7 +83,7 @@ if you want you can try with your own map, find out how here:
 
 You can exit the game with esc.
 
-## map_enemy3.ber
+## map_enemy3
 ``map_enemy3.ber`` it's NOT a game, it's a ``WAR``
 
 Solve the map within a time frame that is suitable for a human being.. How?
