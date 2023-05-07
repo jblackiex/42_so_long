@@ -12,10 +12,10 @@
 
 ## ![gif1.gif](https://drive.google.com/file/d/1y8DQA48qQZwwJsFFF6G2oWR3vney_w3v/view?usp=sharing)
 
-### 📜 Index
+## 📜 Index
 * [How to play 🕹️](#How-to-play)
 * [What's the wrong input? ❌](#Testing)
-* [map_enemy3.ber 🗝](#Puzzle-game)
+* [map_enemy3.ber 🗝](#map_enemy3.ber)
 * [Maps 🗺](#Maps)
 
 <hr>
@@ -82,4 +82,7 @@ if you want you can try with your own map, find out how here:
 * ☢️ IFFFF you want there's something even more harder, DANGEROUS instead... it's IMPOSSIBLE to WIN with ``./so_long_bonus map_enemy3.ber`` ---> [Puzzle-map 🗝](#Puzzle-game)
 
 You can exit the game with esc.
-# Puzzle game
+
+# map_enemy3.ber
+``map_enemy3.ber`` it's NOT a game, it's a ``WAR``
+try to solve it with 
