@@ -13,10 +13,10 @@
 ## ![gif1.gif](https://drive.google.com/file/d/1y8DQA48qQZwwJsFFF6G2oWR3vney_w3v/view?usp=sharing)
 
 ### 📜 Index
-* [How to play](#How-to-play)
-* [What's the wrong input?](#Testing)
-* [map_enemy3.ber🗝](#Puzzle-game)
-* [Maps](#Maps)
+* [How to play 🕹️](#How-to-play)
+* [What's the wrong input? ❌](#Testing)
+* [map_enemy3.ber 🗝](#Puzzle-game)
+* [Maps 🗺](#Maps)
 
 <hr>
 
