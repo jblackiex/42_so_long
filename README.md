@@ -81,7 +81,7 @@ if you want you can try with your own map, find out how here:
 
 * ☢️ IFFFF you want there's something even more harder, DANGEROUS instead... it's IMPOSSIBLE to WIN with ``./so_long_bonus map_enemy3.ber`` --> IT'S A PUZZLE
 
----> * [Puzzle-map 🗝](#Puzzle-game)
+* [Puzzle-map 🗝](#Puzzle-game)
 
 You can exit the game with esc.
 # Puzzle game
