@@ -36,8 +36,8 @@ Execute with:
 ./so_long_bonus maps/name_of_a_map.ber
 ```
 
-### Maps 🗺
-The game is able to play any map you want as long as it follow some specific rules:
+### Maps
+🗺 The game is able to play any map you want as long as it follow some specific rules:
 * The map has to be a ``.ber`` file.
 * It can only contain some of the following characters:
 
@@ -59,7 +59,7 @@ The game is able to play any map you want as long as it follow some specific rul
 
 ### Testing
 
-Try a wrong map in the directory map/ inside the 42_so_long dir. For Example:
+❌ Try a wrong map in the directory map/ inside the 42_so_long dir. For Example:
 ```shell
 ** ./so_long_bonus maps/map_err1.ber **
 ```
@@ -72,3 +72,5 @@ The E/C is unreachable.
 if you want you can try with your own map, find out how here:
 
 * [Maps](#Maps)
+
+#Puzzle game
