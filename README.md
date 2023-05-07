@@ -53,7 +53,7 @@ Execute with:
 * The map must be a rectangle surrounded by walls ‘1’.
 * It must have at least one exit ‘E’ and one collectable ‘C’. And only one player ‘P’.
 
----> see some examples in the ``maps/`` folder of this project.
+---> see some examples in the ``maps/`` folder of this project. TRY ---> [Puzzle-map 🗝](#Puzzle-game)
 
 ### Testing
 
@@ -79,9 +79,7 @@ if you want you can try with your own map, find out how here:
 
 👾 Enemies move after you do, or maybe NOT.. you'll find out! They move after you one tile at a time BUT some of them move two or even more tiles at a time, and will kill you when you move into their tile or they move into yours. After picking up all "magic-balls", the exits open and you may leave to see how many moves you’ve used to solve the map.
 
-* ☢️ IFFFF you want there's something even more harder, DANGEROUS instead... it's IMPOSSIBLE to WIN with ``./so_long_bonus map_enemy3.ber`` --> IT'S A PUZZLE
-
-* [Puzzle-map 🗝](#Puzzle-game)
+* ☢️ IFFFF you want there's something even more harder, DANGEROUS instead... it's IMPOSSIBLE to WIN with ``./so_long_bonus map_enemy3.ber`` ---> [Puzzle-map 🗝](#Puzzle-game)
 
 You can exit the game with esc.
 # Puzzle game
