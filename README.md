@@ -13,7 +13,7 @@
 ## 📜 Index
 * [How to play](#How-to-play)
 * [Tile map](#Tile-map)
-* [Player and Input](#Testing,-what-is-the-wrong-input?)
+* [Player and Input](##Testing)
 * [Enemies](#Enemy-Behaviour)
 * [Animation](#Render,-Animation-and-VFX)
 * [Structs and Data](#Structs-and-Data)
