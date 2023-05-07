@@ -36,21 +36,6 @@ Execute with:
 ```shell
 ./so_long_bonus maps/name_of_a_map.ber
 ```
-### Testing
-
-Try a wrong map in the directory map/ inside the 42_so_long dir. For Example:
-```shell
-** ./so_long_bonus maps/map_err1.ber **
-```
-if everything works fine a message like this will appear:
-
-```
-🛑ERROR:
-The E/C is unreachable.
-```
-if you want you can try with your own map, find out how here:
-
-* [Maps](#Maps)
 
 ### Maps
 The game is able to play any map you want as long as it follow some specific rules:
@@ -72,3 +57,19 @@ The game is able to play any map you want as long as it follow some specific rul
 * It must have at least one exit ‘E’ and one collectable ‘C’. And only one player ‘P’.
 
 ---> see some examples in the ``maps/`` folder of this project.
+
+### Testing
+
+Try a wrong map in the directory map/ inside the 42_so_long dir. For Example:
+```shell
+** ./so_long_bonus maps/map_err1.ber **
+```
+if everything works fine a message like this will appear:
+
+```
+🛑ERROR:
+The E/C is unreachable.
+```
+if you want you can try with your own map, find out how here:
+
+* [Maps](#Maps)
