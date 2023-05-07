@@ -10,10 +10,10 @@
 # 42_so_long
 * The aim of this project is to create a small 2D game where players have to pick up all collectables and go to the exit; then you WIN!
 
-## 📜 Index
+### 📜 Index
 * [How to play](#How-to-play)
 * [Tile map](#Tile-map)
-* [Player and Input](#❌-Testing)
+* [Player and Input](#Testing)
 * [Enemies](#Enemy-Behaviour)
 * [Animation](#Render,-Animation-and-VFX)
 * [Structs and Data](#Structs-and-Data)
@@ -35,7 +35,7 @@ Execute with:
 ```shell
 ./so_long_bonus maps/name_of_a_map.ber
 ```
-## ❌ Testing
+### Testing
 
 Try a wrong map in the directory map/ inside the 42_so_long dir. For Example:
 ```shell
@@ -47,3 +47,4 @@ if everything works fine a message like this will appear:
 🛑ERROR:
 The E/C is unreachable.
 ```
+❌
