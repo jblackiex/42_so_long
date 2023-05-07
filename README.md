@@ -13,10 +13,11 @@
 ### 📜 Index
 * [How to play](#How-to-play)
 * [Tile map](#Tile-map)
-* [What's the wrong input?](#Testing-☢️)
+* [What's the wrong input?](#Testing)
 * [Enemies](#Enemy-Behaviour)
 * [Animation](#Render,-Animation-and-VFX)
 * [Structs and Data](#Structs-and-Data)
+* [Maps](#Maps)
 
 <hr>
 
@@ -35,7 +36,7 @@ Execute with:
 ```shell
 ./so_long_bonus maps/name_of_a_map.ber
 ```
-### Testing ☢️
+### Testing
 
 Try a wrong map in the directory map/ inside the 42_so_long dir. For Example:
 ```shell
@@ -43,8 +44,31 @@ Try a wrong map in the directory map/ inside the 42_so_long dir. For Example:
 ```
 if everything works fine a message like this will appear:
 
-```shell
+```
 🛑ERROR:
 The E/C is unreachable.
 ```
-❌
+if you want you can try with your own map, find out how here:
+
+* [Maps](#Maps)
+
+### Maps
+The game is able to play any map you want as long as it follow some specific rules:
+* The map has to be a ``.ber`` file.
+* It can only contain some of the following characters:
+
+| Character | Object |
+| - | - |
+| 1 | Wall. |
+| 0 | Empty space. |
+| C | Collectable. |
+| E | Exit. |
+| P | Player starting position. |
+| H | Horizontal enemy. It moves to left and right, changing direction when its path is blocked. |
+| V | Vertical enemy. Moving up and down. |
+| F | Following enemy. Each move tries to get closer to the player |
+
+* The map must be a rectangle surrounded by walls ‘1’.
+* It must have at least one exit ‘E’ and one collectable ‘C’. And only one player ‘P’.
+
+---> see some examples in the ``maps/`` folder of this project.
