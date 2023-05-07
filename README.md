@@ -36,7 +36,7 @@ Execute with:
 ./so_long_bonus maps/name_of_a_map.ber
 ```
 
-### Maps
+### Maps 🗺
 The game is able to play any map you want as long as it follow some specific rules:
 * The map has to be a ``.ber`` file.
 * It can only contain some of the following characters:
