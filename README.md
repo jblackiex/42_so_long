@@ -73,4 +73,4 @@ if you want you can try with your own map, find out how here:
 
 * [Maps](#Maps)
 
-#Puzzle game
+### Puzzle game
