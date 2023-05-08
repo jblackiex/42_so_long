@@ -13,7 +13,8 @@
 -->> Prior to starting with this project, clone the repository, then go into it and clone this repository:
 Clone https://github.com/42Paris/minilibx-linux into ``42_so_long`` dir.
 MiniLibX is the simple graphic library that we use at 42 and it's useful to deal with images in this project.
-## ![gif1.gif](https://drive.google.com/file/d/1y8DQA48qQZwwJsFFF6G2oWR3vney_w3v/view?usp=sharing)
+
+<img src="https://github.com/jblackiex/42_so_long/blob/7e1f813eb4925cdf4e53cff1a007f151f6e4a9d5/textures/so_long.gif" alt="map_enemy3.ber" style="width:220px;height:220px;" border="3">
 
 ## 📜 Index
 * [How to play 🕹️](#How-to-play)
