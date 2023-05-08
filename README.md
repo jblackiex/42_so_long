@@ -87,6 +87,8 @@ if you want you can try with your own map, find out how here:
 You can exit the game with esc.
 
 ## map_enemy3
+<img src="https://github.com/jblackiex/42_so_long/blob/757f2d3404e1e4f54b0cafbff9ee7d6018773c2a/map_enemy3.png" alt="map_enemy3.ber" style="width:250px;height:100px;" border="3">
+
 ``map_enemy3.ber`` it's NOT a game, it's a ``WAR``  🗡️
 
 ---> Solve the map within a time frame that is suitable for a human being.. How?
