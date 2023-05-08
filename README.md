@@ -49,7 +49,7 @@ Execute with:
 | - | - |
 | 1 | Wall. |
 | 0 | Empty space. |
-| C | Collectable. |
+| C | Collectible. |
 | E | Exit. |
 | P | Player starting position. |
 | F | Cloning enemy. With each move, some enemies are appearing and disappearing, while others are duplicating |
@@ -100,7 +100,7 @@ You can exit the game with esc.
 ###### What you need to know
 | Object | What if ? |
 | - | - |
-| C or Collectable | if you pick up ``max_collectibles``/2 you achive the ``"X status"``
+| C or Collectible | if you pick up ``max_collectibles``/2 you achive the ``"X status"``
 | X status ✗| if you achive this status you are almost done, BUT now if you eat a "magic-ball" next to enemy AND you are in "X mode" you lose |
 | LAST Collectible ⚗️| if you pick up ``all - 1`` collectibles you are fine |
 | FIRST Collectible and the next one.. | if you start mind your last game |
