@@ -45,7 +45,7 @@ void	lessgo(t_game *g)
 	g->moves = 0;
 	g->c_cur = 0;
 	g->game.win = ft_new_window(&g->game,
-			g->map.size.x * g->sprites.size.x + 0,
+			g->map.size.x * g->sprites.size.x,
 			g->map.size.y * g->sprites.size.y + 0, "./so_long");
 	mlx_hook(g->game.win, 2, 1L << 0, ft_core_keys, g);
 	mlx_hook(g->game.win, 17, 0, ft_close_game, g);
