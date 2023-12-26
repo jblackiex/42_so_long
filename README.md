@@ -103,6 +103,6 @@ You can exit the game with esc.
 | C or Collectible | if you pick up ``max_collectibles``/2 you achive the ``"X status"``
 | X status ✗| if you achive this status you are almost done, BUT now if you eat a "magic-ball" next to enemy AND you are in "X mode" you lose |
 | LAST Collectible ⚗️| if you pick up ``all - 1`` collectibles you are fine |
-| FIRST Collectible and the next one.. | if you start mind your last game |
+| FIRST Collectible and the next one.. | if you start again mind your last game |
 | F or Enemy 💎| Cloning enemy. With each move, some enemies are appearing and disappearing, while others are duplicating, MIND your next move |
 | Best Rule | if you lost, maybe don't trust me 100%, trust me 98% |
